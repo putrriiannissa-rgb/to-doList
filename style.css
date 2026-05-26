@@ -1,0 +1,24 @@
+.list-group-item{
+  border-top: 0px importent;
+  border-right: 0px importent;
+  border-left: 0px importent;
+}
+
+.list-group-item:last-child{
+  border-bottom-left-radius: 0px importent;
+  border-bottom-right-radius: 0px importent;
+}
+
+.span-date{
+  font-size: 12px;
+}
+
+a.btn.btn-sm.btn-warning{
+  margin-right: -80px;
+  margin-top: -55px;
+ }
+
+a.btn.btn-sm.btn-danger{
+ margin-right: -80px;
+ margin-top: -55px;
+}
