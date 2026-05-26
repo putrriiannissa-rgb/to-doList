@@ -1,8 +1,9 @@
 <?php
-$host = "localhost";
+$host = "mysql.railway.internal";
 $user = "root";
-$pass = "";
-$db = "db_todolist";
+$pass = "
+";
+$db = "railway";
 
 $koneksi = mysqli_connect($host, $user, $pass, $db);
 if (!$koneksi) {
